@@ -10,10 +10,10 @@
     },
     "effekte": {
       "version": "0.8.0",
-      "build": 1,
-      "sha256": "25d9fc04aff45c040cad7e487dd8fb01c35176d4ac63708a55f7603574018c75",
-      "downloadBytes": 60374974,
-      "installedBytes": 149842748
+      "build": 2,
+      "sha256": "9cc3c9019568fb72a04d1fa8a5941f3b0f3b81de793efc7af94a8a28af65ff33",
+      "downloadBytes": 60388481,
+      "installedBytes": 149815914
     },
     "foto": {
       "version": "0.7.0",
@@ -37,5 +37,5 @@
       "installedBytes": 196657562
     }
   },
-  "updatedAt": "2026-10-12T16:43:59Z"
+  "updatedAt": "2026-10-12T16:44:19Z"
 }
