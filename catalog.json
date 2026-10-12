@@ -28,7 +28,14 @@
       "sha256": "379927cabf18bf8df6d0f2144cd1ebba742af6c9d9b3466526ce4c5297a01285",
       "downloadBytes": 71707469,
       "installedBytes": 149690193
+    },
+    "vektor": {
+      "version": "0.9.0",
+      "build": 1,
+      "sha256": "3f9583d726f4c7f98b5c09430bda0541f20476f23efec01eb503d68bdc68d451",
+      "downloadBytes": 91771942,
+      "installedBytes": 196634094
     }
   },
-  "updatedAt": "2026-10-12T11:37:33Z"
+  "updatedAt": "2026-10-12T11:42:37Z"
 }
