@@ -21,7 +21,14 @@
       "sha256": "17e726f94f06446d9ebe9435b554de0bc8005051f0f96e7ec7abc605c66bceb8",
       "downloadBytes": 85166068,
       "installedBytes": 169753100
+    },
+    "video": {
+      "version": "0.6.0",
+      "build": 3,
+      "sha256": "379927cabf18bf8df6d0f2144cd1ebba742af6c9d9b3466526ce4c5297a01285",
+      "downloadBytes": 71707469,
+      "installedBytes": 149690193
     }
   },
-  "updatedAt": "2026-10-12T11:37:24Z"
+  "updatedAt": "2026-10-12T11:37:33Z"
 }
