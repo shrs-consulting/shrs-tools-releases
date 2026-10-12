@@ -14,7 +14,14 @@
       "sha256": "25d9fc04aff45c040cad7e487dd8fb01c35176d4ac63708a55f7603574018c75",
       "downloadBytes": 60374974,
       "installedBytes": 149842748
+    },
+    "foto": {
+      "version": "0.7.0",
+      "build": 1,
+      "sha256": "17e726f94f06446d9ebe9435b554de0bc8005051f0f96e7ec7abc605c66bceb8",
+      "downloadBytes": 85166068,
+      "installedBytes": 169753100
     }
   },
-  "updatedAt": "2026-10-12T11:37:14Z"
+  "updatedAt": "2026-10-12T11:37:24Z"
 }
