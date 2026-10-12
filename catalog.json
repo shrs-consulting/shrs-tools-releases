@@ -31,11 +31,11 @@
     },
     "vektor": {
       "version": "0.9.0",
-      "build": 1,
-      "sha256": "3f9583d726f4c7f98b5c09430bda0541f20476f23efec01eb503d68bdc68d451",
-      "downloadBytes": 91771942,
-      "installedBytes": 196634094
+      "build": 2,
+      "sha256": "e7032de691f2841d1d58e6282af3c7eea344a20844f02877343a448ffcc864b6",
+      "downloadBytes": 91771593,
+      "installedBytes": 196657562
     }
   },
-  "updatedAt": "2026-10-12T16:43:03Z"
+  "updatedAt": "2026-10-12T16:43:30Z"
 }
