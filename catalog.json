@@ -17,10 +17,10 @@
     },
     "foto": {
       "version": "0.7.0",
-      "build": 2,
-      "sha256": "24ca70baee41f45bb8a371c75d024dc9cc28594fee3854112aba57d5eed2f35c",
-      "downloadBytes": 85178014,
-      "installedBytes": 169745075
+      "build": 3,
+      "sha256": "73b745b9eef5153ec9818c389d5a6840d81a2f8c94ecefc05ca5a2cb12a1912d",
+      "downloadBytes": 85176721,
+      "installedBytes": 169741110
     },
     "video": {
       "version": "0.6.0",
@@ -37,5 +37,5 @@
       "installedBytes": 196657562
     }
   },
-  "updatedAt": "2026-10-12T21:07:40Z"
+  "updatedAt": "2026-10-13T06:40:34Z"
 }
