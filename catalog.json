@@ -3,10 +3,10 @@
   "tools": {
     "light": {
       "version": "0.6.0",
-      "build": 2,
-      "sha256": "8aca33533b8675fdf464e9bd40f6b6df1436676247643e3a93ff0b7a9f635a7d",
-      "downloadBytes": 99530649,
-      "installedBytes": 198355366
+      "build": 3,
+      "sha256": "ced9c8149edf984e4599c31c89c9b5612bcadea0e98f21818c12789f5691685f",
+      "downloadBytes": 99535679,
+      "installedBytes": 198367673
     },
     "effekte": {
       "version": "0.8.0",
@@ -37,5 +37,5 @@
       "installedBytes": 196653533
     }
   },
-  "updatedAt": "2026-10-13T06:40:59Z"
+  "updatedAt": "2026-10-13T06:41:27Z"
 }
