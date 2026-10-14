@@ -24,10 +24,10 @@
     },
     "video": {
       "version": "0.6.0",
-      "build": 12,
-      "sha256": "414e5d3cdcbdf19a6c45d13edb3f8640b207b59705e8beab3c4b9de92ac4a617",
-      "downloadBytes": 139171244,
-      "installedBytes": 290742627
+      "build": 14,
+      "sha256": "0952a7ef347003984d2367c82c59334ef9868b83fff74562b9cd0076d2047f87",
+      "downloadBytes": 139954872,
+      "installedBytes": 292549779
     },
     "vektor": {
       "version": "0.9.0",
@@ -37,5 +37,5 @@
       "installedBytes": 196653533
     }
   },
-  "updatedAt": "2026-10-14T09:47:30Z"
+  "updatedAt": "2026-10-14T10:35:14Z"
 }
