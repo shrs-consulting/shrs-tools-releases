@@ -2,11 +2,11 @@
   "schema": 1,
   "tools": {
     "light": {
-      "version": "0.8.0",
-      "build": 4,
-      "sha256": "fdc8680e16f3745469653771eb4b1239ff6e34645beed36bbb8ee6053ee44a19",
-      "downloadBytes": 105102567,
-      "installedBytes": 212594418
+      "version": "0.20.0",
+      "build": 6,
+      "sha256": "5aed5f31118357f2ee0c8c3af31d52aab2435e513ef992aeb033115ea87ca2fc",
+      "downloadBytes": 123435739,
+      "installedBytes": 264696991
     },
     "effekte": {
       "version": "0.10.0",
@@ -37,5 +37,5 @@
       "installedBytes": 359928438
     }
   },
-  "updatedAt": "2026-11-13T15:15:23Z"
+  "updatedAt": "2026-11-13T15:16:14Z"
 }
