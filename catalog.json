@@ -30,12 +30,12 @@
       "installedBytes": 303000091
     },
     "vektor": {
-      "version": "0.23.0",
-      "build": 6,
-      "sha256": "e786e15721a926b8fa1a539ab82d2ed643c67bed7e3e028dfe280be8e175ab7b",
-      "downloadBytes": 171718357,
-      "installedBytes": 359928438
+      "version": "0.24.1",
+      "build": 7,
+      "sha256": "e2a49b9a7b5a1fe037f3c371080690b4e565a992d78338fc0d72581180084247",
+      "downloadBytes": 176180482,
+      "installedBytes": 370695179
     }
   },
-  "updatedAt": "2026-11-16T10:53:19Z"
+  "updatedAt": "2026-11-16T11:04:42Z"
 }
